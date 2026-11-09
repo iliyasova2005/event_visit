@@ -1,0 +1,30 @@
+.card{
+    width: 300px;
+    border: solid;
+    border-color: blueviolet;
+    border-radius: 50px;
+    margin: 20px;
+    padding: 30px;
+}
+form{
+    width: 300px;
+    border: solid;
+    border-color: blueviolet;
+    border-radius: 50px;
+    margin: 20px;
+    padding: 30px;
+
+}
+
+#result{
+    width: 300px;
+    border: solid;
+    border-color: blueviolet;
+    border-radius: 50px;
+    margin: 20px;
+    padding: 30px;
+}
+
+p{
+    margin: 10px;
+}
